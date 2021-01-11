@@ -1,0 +1,2 @@
+User-Agent: *
+Sitemap: https://ninoronel1980.github.io/sitemap.xml
